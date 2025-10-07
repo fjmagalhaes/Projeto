@@ -29,5 +29,6 @@
         "Treine",
         "troca",
         "Veja"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
